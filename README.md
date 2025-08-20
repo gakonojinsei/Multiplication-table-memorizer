@@ -5,7 +5,7 @@
 - Custom range practice for both numbers
 - Input validation and error handling
 - Session statistics with accuracy tracking
-- Simple, clean interface
+- Simple interface
 - Type 'q' anytime to quit
 
 ## Quick Start
