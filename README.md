@@ -1,7 +1,5 @@
 # 🔢 Multiplication Table Trainer
 
-A Python program designed to help students memorize multiplication tables through interactive practice sessions.
-
 ## Features
 
 - Custom range practice for both numbers
@@ -35,4 +33,6 @@ Then it generates random questions like `7 × 4 = ?` within those ranges.
 ```bash
 python test_main.py
 ```
+## Feedback
 
+Please feel free to give me feedback!
